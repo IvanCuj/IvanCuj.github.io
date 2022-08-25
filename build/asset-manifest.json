@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/frontFormulario/static/css/main.3c141180.css",
+    "main.js": "/frontFormulario/static/js/main.c1fd96df.js",
+    "static/media/fondo.jpg": "/frontFormulario/static/media/fondo.8279375e3764d8443ff8.jpg",
+    "index.html": "/frontFormulario/index.html",
+    "main.3c141180.css.map": "/frontFormulario/static/css/main.3c141180.css.map",
+    "main.c1fd96df.js.map": "/frontFormulario/static/js/main.c1fd96df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c141180.css",
+    "static/js/main.c1fd96df.js"
+  ]
+}
